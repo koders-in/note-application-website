@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Notes
 
-You can use the [editor on GitHub](https://github.com/koders-in/note-application-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Notes privacy poilcy
+This Privacy Policy describes how and when Notes collects, processes, and uses your information.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the point when you use Notes, it gets your data through our android application. The data is collected whenever you register yourself, upload your data on the cloud, contact us to resolve your queries or any other interactions with our Services. When using our mobile application you consent to the collection, processing, storage and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Notes to use your information in India and any other country where Notes operates.
 
-### Markdown
+### Contact
+You can contact us for any query regarding the application at this <a href="mailto:koderskorp@gmail.com">
+        Feedback.
+    </a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For questions specifically about this Privacy Statement, or our use of your personal information or similar technologies, please contact our experts <a href="mailto:kodersin@outlook.com"> here </a>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Personal Data Collection and Use
+We assure you that we did not share your personal information to any government, organization or to any individual personality. We collect your network state's to provide you useful information about your internet connection. We collect your email address to store your notes and to contact you to resolve your queries.
 
-- Bulleted
-- List
+### Our policy towards children
+ur Services are also directed to persons under 13. This app is created to store your notes with offline and online capability, so we design it to be children friendly. But if you become aware that your child has provided us with personal information without your consent, please email to [support](!mailto:koderskorp@gmail.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koders-in/note-application-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Your rights of your personal data
+You can also permanently delete your Notes mobile application and your personal data collected by us by email to <a href="mailto:kodersin@outlook.com">support</a>
+ If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. We will respond to your request as soon as possible under relevant regulation.
+ 
+ ### Changes to this Policy
+ We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at this page. If we make a change to this policy you can always refer to this page to see changes in our policy. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+ 
+ ### Team Koders
+ <center>
+        <a href="https://www.facebook.com/Koders-Organization-370311677084211" target="_blank">  <img src="facebook.png" alt="facebook"  class="imageclass"> </a>
+        <a href="https://www.instagram.com/koders_in/" target="_blank">  <img src="instagram.png" alt="instagram" class="imageclass"> </a>
+        <a href="https://twitter.com/KodersHQ/" target="_blank"><img src="twitter.png" alt="twitter" class="imageclass"> </a>
+        <a href="https://github.com/koders-in" target="_blank"> <img src="github.png" alt="github" class="imageclass"> </a>
+        <a href="https://www.linkedin.com/company/koders-in/" target="_blank"><img src="linkedin.png" alt="linkedin" class="imageclass"> </a>
+</center>
