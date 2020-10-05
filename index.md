@@ -25,8 +25,8 @@ If you are aware of changes or inaccuracies in your information, you should info
  
 ### Changes to this Policy
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at this page. If we make a change to this policy you can always refer to this page to see changes in our policy. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
- 
- ### Team Koders
+
+### Team Koders
  <center>
         <a href="https://www.facebook.com/Koders-Organization-370311677084211" target="_blank">  <img src="facebook.png" alt="facebook" height="100px" width="100 px" class="imageclass"> </a>
         <a href="https://www.instagram.com/koders_in/" target="_blank">  <img src="instagram.png" height="100px" width="100 px" alt="instagram" class="imageclass"> </a>
